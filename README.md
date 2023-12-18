@@ -1,4 +1,4 @@
-Branch Prediction Project
+Branch Prediction Project<br>
 Overview
 This project focuses on the implementation and analysis of branch prediction techniques, specifically Pattern-based Predictor (PAp) and GAg Predictor. The goal is to evaluate the performance of these predictors and understand their impact on the efficiency of branch prediction in computer architectures.
 
